@@ -1,0 +1,1 @@
+A web-based random Kenyan recipe generator that showcases diverse local dishes, complete with an auto-scrolling list of featured recipes and a sleek glassmorphism design for an intuitive and engaging user experience.
